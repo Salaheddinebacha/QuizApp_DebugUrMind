@@ -46,12 +46,12 @@ Cette application propose une expérience d'apprentissage gamifiée à travers :
 
 | Page | Aperçu |
 |------|--------|
-| 🧑‍💻 Authentification / Inscription | ![Auth Screenshot](./res/drawable/cnx.jpg) |
-| 🎮 Quiz avec icônes | ![Quiz Screenshot](./res/drawable/q1.jpg) |
-| 🗺️ Localisation via Google Maps | ![Map Screenshot](./res/drawable/q2.jpg) |
-| 🎤 Réponse vocale | ![Voice Screenshot](./res/drawable/vocale.jpg) |
-| 📸 Prise de photo | ![Camera Screenshot](./res/drawable/q3.jpg) |
-| 📊 Page de score | ![Score Screenshot](./res/drawable/score.jpg) |
+| 🧑‍💻 Authentification / Inscription | ![Auth Screenshot](./app/src/main/res/drawable/cnx.jpg) |
+| 🎮 Quiz avec icônes | ![Quiz Screenshot](./app/src/main/res/drawable/q1.jpg) |
+| 🗺️ Localisation via Google Maps | ![Map Screenshot](./app/src/main/res/drawable/q2.jpg) |
+| 🎤 Réponse vocale | ![Voice Screenshot](./app/src/main/res/drawable/vocale.jpg) |
+| 📸 Prise de photo | ![Camera Screenshot](./app/src/main/res/drawable/q3.jpg) |
+| 📊 Page de score | ![Score Screenshot](./app/src/main/res/drawable/score.jpg) |
 
 C:\Users\SALAH\AndroidStudioProjects\LAB03_BACHA\app\src\main\res\drawable
 ---
