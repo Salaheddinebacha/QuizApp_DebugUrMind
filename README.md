@@ -46,12 +46,12 @@ Cette application propose une expérience d'apprentissage gamifiée à travers :
 
 | Page | Aperçu |
 |------|--------|
-| 🧑‍💻 Authentification / Inscription | <img src="./app/src/main/res/drawable/cnx.jpg" alt="Auth Screenshot" width="150"/>|
-| 🎮 Quiz avec icônes | ![Quiz Screenshot](./app/src/main/res/drawable/q1.jpg) |
-| 🗺️ Localisation via Google Maps | ![Map Screenshot](./app/src/main/res/drawable/q2.jpg) |
-| 🎤 Réponse vocale | ![Voice Screenshot](./app/src/main/res/drawable/vocale.jpg) |
-| 📸 Prise de photo | ![Camera Screenshot](./app/src/main/res/drawable/q3.jpg) |
-| 📊 Page de score | ![Score Screenshot](./app/src/main/res/drawable/score.jpg) |
+| 🧑‍💻 Authentification / Inscription | <img src="./app/src/main/res/drawable/cnx.jpg" alt="Auth Screenshot" width="100"/>|
+| 🎮 Quiz avec icônes | <img src="./app/src/main/res/drawable/q1.jpg" alt="Auth Screenshot" width="100"/>|
+| 🗺️ Localisation via Google Maps | <img src="./app/src/main/res/drawable/q2.jpg" alt="Auth Screenshot" width="100"/>|
+| 🎤 Réponse vocale |<img src="./app/src/main/res/drawable/vocale.jpg" alt="Auth Screenshot" width="100"/>|
+| 📸 Prise de photo |<img src="./app/src/main/res/drawable/q3.jpg" alt="Auth Screenshot" width="100"/>|
+| 📊 Page de score |<img src="./app/src/main/res/drawable/score.jpg" alt="Auth Screenshot" width="100"/>|
 
 ---
 
